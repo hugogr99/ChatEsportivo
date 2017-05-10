@@ -2,3 +2,5 @@
     
 primeiramente may the force be with you
 Alteramos o nome do aplicativo para :"RocketChat"
+
+Entrega para 12/05/2017: Chat funcional + primeira implementação da interface
